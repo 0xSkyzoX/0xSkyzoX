@@ -99,13 +99,10 @@
     <a href="https://github.com/0xSkyzoX/monscordjs">
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=monscordjst&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
-    <a href="https://github.com/0xSkyzoX/monscordjs">
-     <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=monscordjs&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
   </p>
   <p align="center">
-    <a href="https://github.com/0xSkyzoX/DiscordCustomUrlSniper">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=DiscordCustomUrlSniper&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/0xSkyzoX/codexbot-v1">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=codexbot-v1&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
     <a href="https://github.com/0xSkyzoX/DisboardBumpBot">
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=DisboardBumpBot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
@@ -117,25 +114,21 @@
   <summary><b>🌐 &nbsp;Websites</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/0xSkyzoX/echat">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=echat&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/0xSkyzoX/privnote">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=privnote&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-
-  </p>
-  <p align="center">
-    <a href="https://github.com/0xSkyzoX/clips">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=clips&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/0xSkyzoX/palarm">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=palarm&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/0xSkyzoX/Moppy-Code">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=Moppy-Code&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
   <p align="center">
-    <a href="https://github.com/0xSkyzoX/cashclock">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=cashclock&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/0xSkyzoX/simple-chat">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=simple-chat&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+    <a href="https://github.com/0xSkyzoX/chat-svelte">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=chat-svelte&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/0xSkyzoX/cronicly-home">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=cronicly-home&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
 </details>
