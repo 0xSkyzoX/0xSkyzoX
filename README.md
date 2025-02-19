@@ -96,11 +96,11 @@
   <summary><b>🛡️ &nbsp;Discord</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/0xSkyzoX/coding.global-bot">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=coding.global-bot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/0xSkyzoX/monscordjs">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=monscordjst&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
-    <a href="https://github.com/0xSkyzoX/coding.global-web">
-     <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=coding.global-web&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/0xSkyzoX/monscordjs">
+     <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0xSkyzoX&repo=monscordjs&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
   <p align="center">
